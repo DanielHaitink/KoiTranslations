@@ -36,5 +36,9 @@
   "TUTORIAL_CODE": "Bu bir koi kodu. Bir koi balığını paylaşmak için bu resmi paylaşabilirsiniz. Açmak için koi kodunu oyun ekranına sürükleyin.",
   "LOAD_CARD": "Load card",
   "LOADING": "Yükleniyor",
-  "TUTORIAL_SKIP": "Atla"
+  "TUTORIAL_SKIP": "Atla",
+  "TUTORIAL_CODE_MOBILE": "Bu bir koi kodu. Bir koi balığını paylaşmak için bu resmi paylaşabilirsiniz.",
+  "TOAST_KOI_CODE_FAILED": "Koi yüklenemedi",
+  "TOAST_HAND_FULL": "Elin dolu",
+  "TOAST_IMAGE_SAVED": "Resim kaydedildi"
 }

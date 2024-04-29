@@ -36,5 +36,9 @@
   "TUTORIAL_CODE": "これはコイコードです。友達にシェアできます！そのコイのコードイメージを開くけるために、コイコードをゲームウィンドウにドロップ入力します。",
   "LOAD_CARD": "Load card",
   "LOADING": "ローディング",
-  "TUTORIAL_SKIP": "スキップ"
+  "TUTORIAL_SKIP": "スキップ",
+  "TUTORIAL_CODE_MOBILE": "これはコイコードです。友達にシェアできます！",
+  "TOAST_KOI_CODE_FAILED": "コイを読み込めませんでした",
+  "TOAST_HAND_FULL": "手がいっぱいです",
+  "TOAST_IMAGE_SAVED": "画像が保存されました"
 }

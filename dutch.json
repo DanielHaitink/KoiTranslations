@@ -36,5 +36,9 @@
   "TUTORIAL_CODE": "Dit is een koi code. Deze afbeelding kan gedeeld worden met andere spelers om koi te delen. Sleep een koi code in het spel om deze te laden.",
   "LOAD_CARD": "Kaart laden",
   "LOADING": "Laden",
-  "TUTORIAL_SKIP": "Overslaan"
+  "TUTORIAL_SKIP": "Overslaan",
+  "TUTORIAL_CODE_MOBILE": "Dit is een koi code. Deze afbeelding kan gedeeld worden met andere spelers om koi te delen. Klik op de plus knop om een koi in te laden.",
+  "TOAST_KOI_CODE_FAILED": "Koi kan niet geladen worden",
+  "TOAST_HAND_FULL": "Je hand is vol",
+  "TOAST_IMAGE_SAVED": "Afbeelding opgeslagen"
 }

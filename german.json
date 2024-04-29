@@ -36,5 +36,9 @@
   "TUTORIAL_CODE": "Das ist ein Koi Code. Dieses Bild kann mit anderen Spielern geteilt werden, um Kois auszutauschen. Ziehe einen Koi Code in das Spielfenster, um ihn zu öffnen.",
   "LOAD_CARD": "Load card",
   "LOADING": "Laden",
-  "TUTORIAL_SKIP": "Überspringen"
+  "TUTORIAL_SKIP": "Überspringen",
+  "TUTORIAL_CODE_MOBILE": "Das ist ein Koi Code. Dieses Bild kann mit anderen Spielern geteilt werden, um Kois auszutauschen.",
+  "TOAST_KOI_CODE_FAILED": "Koi konnte nicht geladen werden",
+  "TOAST_HAND_FULL": "Deine Hand ist voll",
+  "TOAST_IMAGE_SAVED": "Bild gespeichert"
 }

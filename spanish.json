@@ -36,5 +36,9 @@
   "TUTORIAL_CODE": "Este es un código koi. Esta imagen se puede compartir con otros jugadores para compartir koi. Suelta un código koi en la ventana del juego para abrirlo.",
   "LOAD_CARD": "Load card",
   "LOADING": "Cargando",
-  "TUTORIAL_SKIP": "Saltar"
+  "TUTORIAL_SKIP": "Saltar",
+  "TUTORIAL_CODE_MOBILE": "Este es un código koi. Esta imagen se puede compartir con otros jugadores para compartir koi.",
+  "TOAST_KOI_CODE_FAILED": "No se pudo cargar el koi",
+  "TOAST_HAND_FULL": "Tu mano está llena",
+  "TOAST_IMAGE_SAVED": "Imagen guardada"
 }

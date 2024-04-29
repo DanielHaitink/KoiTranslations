@@ -36,5 +36,9 @@
     "TUTORIAL_CODE": "Ini adalah kode koi. Gambar ini dapat dibagikan dengan pemain lain untuk berbagi koi. Masukkan kode koi ke jendela permainan untuk membukanya.",
     "LOAD_CARD": "Load card",
     "LOADING": "Memuat",
-    "TUTORIAL_SKIP": "Lewati"
+    "TUTORIAL_SKIP": "Lewati",
+    "TUTORIAL_CODE_MOBILE": "Ini adalah kode koi. Gambar ini dapat dibagikan dengan pemain lain untuk berbagi koi.",
+    "TOAST_KOI_CODE_FAILED": "Tidak bisa memuat koi",
+    "TOAST_HAND_FULL": "Tangan Anda penuh",
+    "TOAST_IMAGE_SAVED": "Gambar disimpan"
 }

@@ -36,5 +36,9 @@
   "TUTORIAL_CODE": "This is a koi code. This image can be shared with other players to share koi. Drop a koi code into the game window to open it.",
   "LOAD_CARD": "Load card",
   "LOADING": "Loading",
-  "TUTORIAL_SKIP": "Skip"
+  "TUTORIAL_SKIP": "Skip",
+  "TUTORIAL_CODE_MOBILE": "This is a koi code. This image can be shared with other players to share koi. Load a koi code by clicking the add button.",
+  "TOAST_KOI_CODE_FAILED": "Could not load koi",
+  "TOAST_HAND_FULL": "Your hand is full",
+  "TOAST_IMAGE_SAVED": "Image saved"
 }

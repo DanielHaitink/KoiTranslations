@@ -36,5 +36,9 @@
   "TUTORIAL_CODE": "Dit is in koi-koade. Dizze ôfbylding kin dield wurde mei oare spilers om koi te dielen. Sleep in koi-koade yn it spultsje om dizze te laden.",
   "LOAD_CARD": "Load card",
   "LOADING": "Laden",
-  "TUTORIAL_SKIP": "Oerslaan"
+  "TUTORIAL_SKIP": "Oerslaan",
+  "TUTORIAL_CODE_MOBILE": "Dit is in koi-koade. Dizze ôfbylding kin dield wurde mei oare spilers om koi te dielen.",
+  "TOAST_KOI_CODE_FAILED": "Koi koe net laden",
+  "TOAST_HAND_FULL": "Jo hân is fol",
+  "TOAST_IMAGE_SAVED": "Ôfbylding bewarre"
 }

@@ -36,5 +36,9 @@
   "TUTORIAL_CODE": "To jest kod koi. Możesz udostępnić ten obrazek z innym graczom aby udostępnić swojego koi. Przeciągnij obrazek na okno gry aby go otworzyć.",
   "LOAD_CARD": "Load card",
   "LOADING": "Ładowanie",
-  "TUTORIAL_SKIP": "Pominięcie"
+  "TUTORIAL_SKIP": "Pominięcie",
+  "TUTORIAL_CODE_MOBILE": "To jest kod koi. Możesz udostępnić ten obrazek z innym graczom aby udostępnić swojego koi.",
+  "TOAST_KOI_CODE_FAILED": "Nie można załadować koi",
+  "TOAST_HAND_FULL": "Twoja ręka jest pełna",
+  "TOAST_IMAGE_SAVED": "Obraz został zapisany"
 }

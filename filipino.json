@@ -36,5 +36,9 @@
   "TUTORIAL_CODE": "Ito ay isang code para sa isang koi. Ibahagi ito sa ibang tao. Kung nais mong gumamit ng code, i-drag ang code sa laro. ",
   "LOAD_CARD": "Load card",
   "LOADING": "Naglo-load",
-  "TUTORIAL_SKIP": "Lumaktaw"
+  "TUTORIAL_SKIP": "Lumaktaw",
+  "TUTORIAL_CODE_MOBILE": "Ito ay isang code para sa isang koi. Ibahagi ito sa ibang tao.",
+  "TOAST_KOI_CODE_FAILED": "Hindi ma-load ang koi",
+  "TOAST_HAND_FULL": "Ang iyong kamay ay puno",
+  "TOAST_IMAGE_SAVED": "Nai-save ang larawan"
 }
