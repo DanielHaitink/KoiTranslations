@@ -1,11 +1,11 @@
-##Name:
+## Name:
 Koi Farm
 
-##Short Description (up to 80 characters):
+## Short Description (up to 80 characters):
 A koi breeding game. Explore an infinite number of procedurally generated koi!
 
 
-##Full Description (up to 1000 characters):
+## Full Description (up to 1000 characters):
 Koi Farm is a game about playing with koi ponds. Explore an infinite number of procedurally generated koi patterns by crossbreeding your fish, and discover new mutations as you go along.
 
 Features:

@@ -1,10 +1,10 @@
-##Name:
+## Name:
 Koi Farm
         
-##Short Description:
+## Short Description:
 Bir koi üretim oyunu. Sonsuz sayıda prosedürle oluşturulmuş koi keşfedin!
 
-##Long Description:
+## Long Description:
 Koi Çiftliği, koi göletleriyle vakit geçirdiğiniz bir oyundur. Çaprazlama üretim ile sınırsız sayıda olan koi desenlerini keşfedin ve yeni mutasyonları ortaya çıkartın.
 
 Özellikler

@@ -1,10 +1,10 @@
-##Name:
+## Name:
 Koi Farm
 
-##Short Description:
+## Short Description:
 Een koi kweek spel. Ontdek een eindeloos aantal gegenereerde koi!
 
-##Full Description:
+## Full Description:
 In Koi Farm speel je als speler met koi vijvers. Ontdek een eindeloos aantal gegenereerde koi patronen door de vissen te kruisen, en ontdek nieuwe mutaties.
 
 Features:

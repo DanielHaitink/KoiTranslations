@@ -1,10 +1,10 @@
-##Name:
+## Name:
 Koi Farm
         
-##Short Description:
+## Short Description:
 Gra hodowli koi. Odkryj nieskończoną liczbę procedularnie generowanych koi!
         
-##Full Description:
+## Full Description:
 Koi Farm polega na zabawie w stawach pełnych karpi koi. Badaj nieskończoną ilość proceduralnie generowanych wzorów, krzyżując swoje ryby i odkrywając po drodze nowe mutacje.
 
 Cechy Gry

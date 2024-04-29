@@ -1,10 +1,10 @@
-##Name:
+## Name:
 コイファーム
 
-##Short Description:
+## Short Description:
 コイの養殖ゲーム。無限に生成されるコイを探検しよう！
         
-##Full Description:
+## Full Description:
 コイファームは鯉の池で遊ぶことができるゲームです！
 自分のコイを繁殖させることで、鯉（コイ）のパータンを無数に探索し、どんどん進めていって、新しい突然変異を発見しましょう！
 
